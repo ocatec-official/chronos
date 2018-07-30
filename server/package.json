@@ -1,0 +1,19 @@
+{
+  "name": "chronos",
+  "version": "1.0.0",
+  "description": "Sistema de ponto virtual da Ocatec",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "scripts": {
+    "test": "",
+    "start": "node chronos.js"
+  },
+  "author": "Ocatec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "stringify-object": "^3.2.2"
+  }
+}
